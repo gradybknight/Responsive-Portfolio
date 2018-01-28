@@ -284,13 +284,21 @@ input[type=submit] {
     width: 30%;
   }
   .main-section{
-    margin-top: 100px;
+    margin-top: 0px;
   }
   .work{
     width: 100%;
   }
+  #main-container{
+    padding-top: 10px;
+  }
 
   .auth-image{
     width:100%;
+  }
+
+  #masthead{
+    position: static;
+    top:0px;
   }
 }
